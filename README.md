@@ -1,1 +1,3 @@
 # MachineLearning
+
+Simple prediction algorithms 
