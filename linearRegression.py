@@ -13,7 +13,7 @@ import pandas as pd
 
 #2.veri onisleme
 #2.1.veri yukleme
-veriler = pd.read_csv('odev_tenis.csv')
+veriler = pd.read_csv('tenis.csv')
 
 pd.read_csv("veriler.csv")
 #test
